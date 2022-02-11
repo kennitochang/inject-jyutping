@@ -2,7 +2,9 @@
 
 呢個係一個可以幫網頁上面嘅漢字自動標註粵拼嘅 Chrome 同 Firefox 插件，係學習粵拼同粵語嘅強大工具。
 
-A browser extension for Mozilla Firefox and Google Chrome that adds Cantonese pronunciation (Jyutping) on Chinese characters, a powerful tool for learning Cantonese and Jyutping. Unofficial version with tone marks:
+A browser extension for Mozilla Firefox and Google Chrome that adds Cantonese pronunciation (Jyutping) on Chinese characters, a powerful tool for learning Cantonese and Jyutping.
+
+Tone marks added for added clarity:
 
 ```
 1: āēīōūm̄n̄
