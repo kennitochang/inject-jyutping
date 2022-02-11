@@ -1,4 +1,4 @@
-<h1>Inject Jyutping - Tone Marks Version <ruby>幫<rt>bōng</rt></ruby> <ruby>漢<rt>hon</rt></ruby> <ruby>字<rt>zị</rt></ruby> <ruby>標<rt>biu1</rt></ruby> <ruby>粵<rt>jyụt</rt></ruby> <ruby>拼<rt>ping</rt></ruby> (<ruby>拼<rt>sīng</rt></ruby> <ruby>聲<rt>dịu</rt></ruby> <ruby>符<rt>fù</rt></ruby> <ruby>號<rt>hóu</rt></ruby> <ruby>版<rt>báan</rt></ruby>) </h1>
+<h1>Inject Jyutping - Tone Marks Version <ruby>幫<rt>bōng</rt></ruby> <ruby>漢<rt>hon</rt></ruby> <ruby>字<rt>zị</rt></ruby> <ruby>標<rt>bīu</rt></ruby> <ruby>粵<rt>jyụt</rt></ruby> <ruby>拼<rt>ping</rt></ruby> (<ruby>拼<rt>sīng</rt></ruby> <ruby>聲<rt>dịu</rt></ruby> <ruby>符<rt>fù</rt></ruby> <ruby>號<rt>hóu</rt></ruby> <ruby>版<rt>báan</rt></ruby>) </h1>
 
 呢個係一個可以幫網頁上面嘅漢字自動標註粵拼嘅 Chrome 同 Firefox 插件，係學習粵拼同粵語嘅強大工具。
 
