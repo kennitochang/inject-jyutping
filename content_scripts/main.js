@@ -20,6 +20,14 @@ function isTargetLang(lang) {
     return !lang.startsWith('ja') && !lang.startsWith('ko') && !lang.startsWith('vi');
 }
 
+function unicodeToChar(text) {
+   return text.replace(/\\u[\dA-F]{4}/gi, 
+          function (match) {
+               return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
+          });
+}
+
+
 /**
  * Create a ruby element with the character and the pronunciation.
  * @param {String} ch The character in a ruby element
@@ -37,7 +45,7 @@ function makeRuby(ch, pronunciation) {
 
     const rt = document.createElement('rt');
     rt.lang = 'yue-Latn';
-    rt.innerText = pronunciation;
+    rt.innerText = unicodeToChar(pronunciation);
     ruby.appendChild(rt);
 
     const rp_right = document.createElement('rp');
