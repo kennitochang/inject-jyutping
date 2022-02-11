@@ -22,7 +22,7 @@ This project is inspired by [EYHN/Furigana](https://github.com/EYHN/Furigana).
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/inject-jyutping/lfgpgjkjglogbndlkikjgbbfoiofbdjp)
 - [Firefox Browser Add-On](https://addons.mozilla.org/en-US/firefox/addon/inject-jyutping/)
 
-<h2>Build <ruby>編(pīn)(pīn)<rt>pīn</rt></ruby> <ruby>譯(jịk)(jịk)<rt>jịk</rt></ruby> </h2>
+<h2>Build <ruby>編<rt>pīn</rt></ruby> <ruby>譯<rt>jịk</rt></ruby> </h2>
 
 See [`.github/workflows/build.yml`](.github/workflows/build.yml).
 
