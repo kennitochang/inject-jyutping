@@ -4,7 +4,7 @@
 
 A browser extension for Mozilla Firefox and Google Chrome that adds Cantonese pronunciation (Jyutping) on Chinese characters, a powerful tool for learning Cantonese and Jyutping.
 
-Tone marks added for added clarity:
+Currently uses the following tone mark convention (future versions will allow user to choose).
 
 ```
 1: āēīōūm̄n̄
@@ -21,8 +21,7 @@ This project is inspired by [EYHN/Furigana](https://github.com/EYHN/Furigana).
 
 <h2>Install <ruby>安<rt>ōn</rt></ruby> <ruby>裝<rt>zōng</rt></ruby> </h2>
 
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/inject-jyutping/lfgpgjkjglogbndlkikjgbbfoiofbdjp)
-- [Firefox Browser Add-On](https://addons.mozilla.org/en-US/firefox/addon/inject-jyutping/)
+- ...
 
 <h2>Build <ruby>編<rt>pīn</rt></ruby> <ruby>譯<rt>jịk</rt></ruby> </h2>
 
