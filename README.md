@@ -4,7 +4,9 @@
 
 A browser extension for Mozilla Firefox and Google Chrome that adds Cantonese pronunciation (Jyutping) on Chinese characters, a powerful tool for learning Cantonese and Jyutping.
 
-Currently uses the following tone mark convention (future versions will allow user to choose).
+目前用以下嘅聲調方案（將來嘅版本入邊用户會個性化啲聲調）。
+
+Currently uses the following tone mark convention (future versions will allow user to customize tone the tone marks used).
 
 ```
 1: āēīōūm̄n̄
