@@ -1,7 +1,7 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "__MSG_extensionName__",
-    "version": "0.3.0",
+    "version": "0.1",
     "description": "__MSG_extensionDescription__",
     "icons": {
         "48": "icons/48.png",
@@ -18,12 +18,11 @@
         }
     ],
     "background": {
-        "scripts": ["lib/browser-polyfill.js", "lib/MessageManager.js", "lib/Trie.js", "background_scripts/main.js"],
-        "persistent": true
+        "service_worker": "background.js"
     },
     "permissions": ["storage"],
     "default_locale": "en",
-    "browser_action": {
+    "action": {
         "default_icon": "icons/96.png",
         "default_title": "__MSG_extensionName__",
         "default_popup": "popup/index.html"

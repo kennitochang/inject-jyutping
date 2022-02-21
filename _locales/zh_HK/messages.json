@@ -6,7 +6,7 @@
         "message": "注入粵拼（聲調符號版）"
     },
     "extensionDescription": {
-        "message": "為漢字標註粵語發音（粵拼）。"
+        "message": "為漢字標註粵語發音（粵拼），附上聲調符號。"
     },
     "popupCheckboxText": {
         "message": "<ruby class=\"inject-jyutping\">自<rp>(</rp><rt lang=\"yue-Latn\">zị</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">動<rp>(</rp><rt lang=\"yue-Latn\">dụng</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">注<rp>(</rp><rt lang=\"yue-Latn\">zyu</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">入<rp>(</rp><rt lang=\"yue-Latn\">jạp</rt><rp>)</rp></ruby>"
