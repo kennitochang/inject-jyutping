@@ -8,9 +8,6 @@
     "extensionDescription": {
         "message": "Add Cantonese pronunciation (Jyutping) on Chinese characters."
     },
-    "contextMenuItemDoInjectJyutping": {
-        "message": "Inject Jyutping with Diacritics"
-    },
     "popupCheckboxText": {
         "message": "Inject automatically（<ruby class=\"inject-jyutping\">自<rp>(</rp><rt lang=\"yue-Latn\">zị</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">動<rp>(</rp><rt lang=\"yue-Latn\">dụng</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">注<rp>(</rp><rt lang=\"yue-Latn\">zyu</rt><rp>)</rp></ruby><ruby class=\"inject-jyutping\">入<rp>(</rp><rt lang=\"yue-Latn\">jạp</rt><rp>)</rp></ruby>）"
     },
