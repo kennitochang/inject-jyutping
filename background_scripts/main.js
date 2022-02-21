@@ -37,18 +37,4 @@ function convert(t, s) {
         const mm = new MessageManager(port);
         mm.registerHandler('convert', s => convert(t, s));
     });
-
-    /* Context Menu */
-
-    browser.contextMenus.onClicked.addListener((info, tab) => {
-        if (info.menuItemId === 'do-inject-jyutping') {
-            browser.tabs.sendMessage(tab.id, { name: 'do-inject-jyutping' });
-        }
-    });
-
-    browser.contextMenus.create({
-        id: 'do-inject-jyutping',
-        title: browser.i18n.getMessage('contextMenuItemDoInjectJyutping'),
-        contexts: ['page'],
-    });
 })();
